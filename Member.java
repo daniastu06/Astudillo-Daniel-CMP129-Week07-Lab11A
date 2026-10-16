@@ -2,7 +2,7 @@ public class Member {
     private String name;
     private String memberId;
 
-    public Member(String name, int memberId){
+    public Member(String name, String memberId){
         this.name = name;
         this.memberId = memberId;
     }
